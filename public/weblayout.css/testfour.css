@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Courier New", Courier, monospace;
+  }
+body{
+    background-color: rgb(0, 0, 0);
+}
+.header{
+    background-color: palevioletred;
+    width: 95vw;
+    height: 18vh;
+    margin: auto;
+    padding-top: 50px;
+
+}
+.header h1 {
+    text-align: center;
+}
+
+.navigationbar{
+    background-color: rgb(162, 0, 255);
+    width: 95vw;
+    height: 12vh;
+    margin: auto;
+    padding-top: 25px;
+}
+
+.navigationbar h1 {
+    text-align: center;
+}
+.leftpanel{
+    background-color: rgb(255, 255, 255);
+    width: 95vw;
+    height: 450px;
+    margin: auto;
+    padding-top: 200px;
+}
+
+.leftpanel h1 {
+    text-align: center;
+}
+
+.footer{
+    background-color: rgb(175, 90, 255);
+    width: 95vw;
+    height: 18vh;
+    margin: auto;
+    padding-top: 40px;
+
+}
+
+.footer h1{
+    text-align: center;
+}
